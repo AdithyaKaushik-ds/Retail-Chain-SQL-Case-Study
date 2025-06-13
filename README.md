@@ -19,22 +19,16 @@ Temporal Trends: Identified annual growth and monthly seasonality in orders; hig
 Geographic Insights: São Paulo (SP) consistently had the highest order volume, customer base, and freight costs.
 
 Operational Efficiency:
-
-Most deliveries occurred within estimated time.
-
-Certain states showed consistently faster-than-expected deliveries.
+- Most deliveries occurred within estimated time.
+- Certain states showed consistently faster-than-expected deliveries.
 
 Economic Metrics:
-
-Analyzed order value and freight cost averages across states.
-
-Tracked year-over-year increase in total order cost (~Jan–Aug).
+- Analyzed order value and freight cost averages across states.
+- Tracked year-over-year increase in total order cost (~Jan–Aug).
 
 Payment Patterns:
-
-Credit card was the most preferred method.
-
-Single-installment payments were most common.
+- Credit card was the most preferred method.
+- Single-installment payments were most common.
 
 📊 Recommendations
 Extend successful strategies from top-performing states like SP to others.
